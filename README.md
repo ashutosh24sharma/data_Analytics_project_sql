@@ -1,7 +1,7 @@
 # data_Analytics_project_sql
 
-This project performs data cleaning, exploration, and analytics entirely in SQL.
-It answers real business questions with joins, window functions, and aggregations, and presents results as reusable views and report tables.
+A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
+This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
 
 ![key_Analysis](docs/Project_Roadmap.png)
 
